@@ -1,0 +1,10 @@
+D:\ImageResizerTool\.venv\Scripts\python.exe D:\ImageResizerTool\imageresizer.py
+Starting batch image resizing...
+
+✔ Resized: cat.jpeg → saved to resized_images\cat.jpeg
+✔ Resized: flower.jpeg → saved to resized_images\flower.jpeg
+✔ Resized: nature.jpeg → saved to resized_images\nature.jpeg
+
+All images resized successfully!
+
+Process finished with exit code 0
